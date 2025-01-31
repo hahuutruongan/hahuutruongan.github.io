@@ -7,7 +7,7 @@ Objective: I am seeking to leverage my academic background and practical experie
 
 Education:
 - University of Information Technology, VNU-HCM
-  Major: Computer Science
+  + Major: Computer Science
 
 - Tran Bien High School
 Graduated: 6/2024
